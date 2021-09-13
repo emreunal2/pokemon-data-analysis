@@ -22,3 +22,5 @@
     1. Is There Type With No Legendary Pokemon?
 1. #TODO:
 Creating best team for every generation
+
+My Kaggle Profile: https://www.kaggle.com/emreunal2
